@@ -1,0 +1,12 @@
+opencv-python
+flask
+keras
+pandas
+matplotlib
+numpy
+scipy
+scikit-learn
+imutils
+os
+Object_detection
+packages
